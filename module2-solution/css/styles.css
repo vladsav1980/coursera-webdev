@@ -46,6 +46,20 @@ div.title {
   font-size: 125%;
 }
 
+div#chicken {
+  background-color: pink;
+}
+
+div#beef {
+  background-color: red;
+  color: white;
+}
+
+div#sushi {
+  background-color: olive;
+  color: white;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;  
